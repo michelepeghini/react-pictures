@@ -1,4 +1,4 @@
-#React Pictures
+# React Pictures
 
 Simple React app that fetches pictures using Unsplash API and displays them as tiles using CSS Grid.
 Clicking on a picture will open it up as a modal dialog in full screen.
